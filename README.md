@@ -1,7 +1,14 @@
+
+
+
 # 🥔 Potato Detection, Tracking & Counting System
 AI-based potato detection and counting system using YOLOv11 and OpenCV on a conveyor belt.
 
 ## 🎥  Demo Video
+
+<p align="center">
+  <img src="potato-_online-video-cutter.com_.gif" width="1050">
+</p>
 
 <p align="center">
   <a href="https://youtu.be/Dv8af0bsMFQ">
